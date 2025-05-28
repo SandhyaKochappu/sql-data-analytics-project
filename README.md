@@ -117,6 +117,33 @@ Summarize product-level performance metrics and categorize products by revenue c
   - Average Monthly Revenue (AMR)
 
 ---
+## 🔍 Key Business Insights
+
+### 🧑‍🤝‍🧑 Customer Insights
+- **50–59 age group** leads in **total orders and sales**, followed by **40–49** and **60–69**.
+- **New Customers** (spending history <12 months) accounted for **88.6%** of average monthly spend.
+- **VIP Customers** (≥12 months, >$5,000 spend) contributed **6.3%**.
+- **Regular Customers** (≥12 months, ≤$5,000 spend) made up the remaining share.
+
+### 🚲 Product & Sales Insights
+- **Top Subcategories by Average Monthly Revenue**:
+  1. Road Bikes  
+  2. Mountain Bikes  
+  3. Touring Bikes  
+- **Sales Contribution by Product Category**:
+  - **Bikes**: 96.46%
+  - **Accessories**: 2.39%
+  - **Clothing**: 1.16%
+
+### 💰 Product Pricing & Volume Insights
+- **Highest quantity sold**: Products priced **below $100**
+- **Second-highest**: Products priced **above $1,000**
+  - Indicates demand at both low and high ends of the price spectrum
+
+---
+## 📌 Conclusion
+
+This project highlights how SQL can be used effectively for deep data analysis and business reporting. The results provide actionable insights into customer behavior, product performance, and overall sales trends, supporting strategic business decisions.
 
 ## 🛠️ Tools & Techniques
 
@@ -124,6 +151,9 @@ Summarize product-level performance metrics and categorize products by revenue c
 - Power BI
 - Date/time functions
 - Analytical thinking
+- - Business Intelligence principles
+- Customer and product segmentation
+- KPI calculation and trend analysis
 - Customer and product segmentation
 
 ---
